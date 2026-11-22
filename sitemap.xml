@@ -2,12 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://appgut-ventures.de/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://appgut-ventures.de/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://appgut-ventures.de/de/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://appgut-ventures.de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://appgut-ventures.de/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://appgut-ventures.de/"/>
   </url>
   <url>
-    <loc>https://appgut-ventures.de/de/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://appgut-ventures.de/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://appgut-ventures.de/de/"/>
+    <loc>https://appgut-ventures.de/en/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://appgut-ventures.de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://appgut-ventures.de/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://appgut-ventures.de/"/>
   </url>
 </urlset>
