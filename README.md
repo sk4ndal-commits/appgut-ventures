@@ -14,7 +14,7 @@ Static website for Appgut Ventures (process automation & AI), hosted on GitHub P
 
 - Styles: `assets/site.css`. Savings calculator: `assets/calculator.js` (runs only in the browser).
 - Fonts Inter and Space Grotesk are self-hosted in `assets/fonts/` (SIL Open Font License). No cookies, no tracking, no external requests.
-- Booking buttons open an email to `info@appgut-ventures.de`. To switch to Calendly later, replace the `mailto:` links with the booking link and re-add a Calendly section to both privacy pages.
+- Booking buttons open an email to `hello@appgut-ventures.de`. To switch to Calendly later, replace the `mailto:` links with the booking link and re-add a Calendly section to both privacy pages.
 
 ## Open items
 
